@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_rounded_texview.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/bg_transparent.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_done.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_play.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_thumb_up.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/rounded_texview.xml" value="0.1975" />
+        <entry key="app/src/main/res/layout-v23/activity_movie_detail.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_movie_detail.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_movie_details.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/activity_serie_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_toolbar.xml" value="0.24818840579710144" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.13134057971014493" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_item.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_item_list.xml" value="0.16641337386018237" />
+        <entry key="app/src/main/res/layout/fragment_movie_details.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/genre_textview.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/preview_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/season_card.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

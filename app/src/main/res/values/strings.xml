@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoviesClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_movie_details">Movie Details</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- util -->
+    <string name="imageDescription">imageDescription</string>
+
+    <!-- fragment home -->
+    <string name="animation">Animation</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="comedy">Comedy</string>
+
+    <!-- activity movie detail -->
+    <string name="play">Play</string>
+    <string name="download">Download</string>
+    <string name="my_list">My List</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+
+</resources>

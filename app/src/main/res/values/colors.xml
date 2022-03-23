@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#918C8D</color>
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
+    <color name="emerald">#58C36D</color>
+    <color name="mine_shaft">#80363636</color>
+    <color name="cod_gray">#0a0a0a</color>
+</resources>
